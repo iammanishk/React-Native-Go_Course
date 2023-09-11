@@ -1,5 +1,18 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+# Dependencies
+These are some dependencies you have to install in your project.
+
+```bash
+   # react-native vectoe icon👇
+   npm i react-native-vector-icons
+   # react-native responsive ui👇
+   npm install react-native-responsive-ui --save
+```
+
+- 👉[React NAtive Vector Icons](https://www.npmjs.com/package/react-native-vector-icons)
+- 👉[React Native Responsive UI](https://www.npmjs.com/package/react-native-responsive-ui)
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -68,12 +81,12 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
-# Learn More
 
-To learn more about React Native, take a look at the following resources:
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+
+
+# Connect With Me👇
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/manishyadhuvan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/manishyadhuvan6" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/manish-yadhuvanshi-6540a8213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manish-yadhuvanshi-6540a8213/" height="30" width="40" /></a>
+</p>
